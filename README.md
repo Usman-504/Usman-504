@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Clean Coding
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: usmanpeshawar70@gmail.com
-- 😄 My Facebook: https://www.facebook.com/musman504
   
 ### Connect with me:
 <div id="badges">
