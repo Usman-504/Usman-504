@@ -25,6 +25,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark) -->
 
+[![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usman-504)](https://github.com/Usman-504/github-readme-stats)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usman-504)
 
 
