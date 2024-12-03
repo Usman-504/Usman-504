@@ -25,7 +25,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark) -->
 
-
-<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usman-504)
+
 
