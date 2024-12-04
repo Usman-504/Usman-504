@@ -27,6 +27,6 @@
 
 [![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usman-504)](https://github.com/Usman-504/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usman-504)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Usman-504)](https://git.io/streak-stats)
 
 
