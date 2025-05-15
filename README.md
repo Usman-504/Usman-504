@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Clean Coding
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: usmanpeshawar70@gmail.com
+- 📫 How to reach me: flutterdevusman@gmail.com
   
 ### Connect with me:
 <div id="badges">
